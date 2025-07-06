@@ -1,1 +1,4 @@
 # Inventory
+
+Frontend
+Backend
